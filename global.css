@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* Color */
+  --color-gray: #030300;
+  --color-black: #000;
+  --color-dimgray-200: #5d5d5d;
+  --color-dimgray-100: #707070;
+  --color-orange-300: #fe9c00;
+  --color-orange-200: #ff9c00;
+  --color-orange-100: #ff9d00;
+  --color-white: #fff;
+
+  /* BorderRadius */
+  --br-3: 3px;
+
+  /* Font */
+  --font-malayalam-sangam-mn: Malayalam Sangam MN;
+  --font-khmer-mn: Khmer MN;
+  --font-bodoni-72-oldstyle: Bodoni 72 Oldstyle;
+
+  /* FontSize */
+  --font-size-40: 40px;
+  --font-size-60: 60px;
+  --font-size-80: 80px;
+  --font-size-100: 100px;
+}

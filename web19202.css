@@ -1,0 +1,189 @@
+.mask-group-9 {
+  position: absolute;
+  top: 237px;
+  left: 130px;
+  width: 710px;
+  height: 728px;
+  object-fit: cover;
+}
+.the-vietnam-literature {
+  position: absolute;
+  top: 396px;
+  right: 216px;
+  font-size: 35px;
+  font-family: var(--font-bodoni-72-oldstyle);
+  color: var(--color-black);
+  display: inline-block;
+  width: 620px;
+  height: 411px;
+}
+.mask-group-72,
+.mask-group-75 {
+  position: absolute;
+  bottom: 171px;
+  left: 130px;
+  width: 507px;
+  height: 742px;
+  object-fit: cover;
+}
+.mask-group-75 {
+  bottom: 0;
+  left: 0;
+  width: 1920px;
+  height: 1083px;
+}
+.web-1920-3-child {
+  position: absolute;
+  bottom: 93px;
+  left: 57px;
+  border-radius: 113px;
+  background-color: var(--color-white);
+  width: 1807px;
+  height: 898px;
+  opacity: 0.55;
+}
+.mask-group-73 {
+  position: absolute;
+  bottom: 172px;
+  left: 707px;
+  width: 507px;
+  height: 742px;
+  object-fit: cover;
+}
+.mask-group-74 {
+  right: 129px;
+  bottom: 171px;
+  width: 507px;
+  height: 742px;
+}
+.mask-group-74,
+.mask-group-80,
+.mask-group-81 {
+  position: absolute;
+  object-fit: cover;
+}
+.mask-group-80 {
+  bottom: 173px;
+  left: 130px;
+  width: 507px;
+  height: 742px;
+  cursor: pointer;
+}
+.mask-group-81 {
+  top: 1293px;
+  left: 479px;
+  width: 109px;
+  height: 310px;
+}
+.vn-hc {
+  margin: 0;
+}
+.vn-hc-dn-container {
+  position: absolute;
+  top: 1301px;
+  left: 486px;
+  display: inline-block;
+  width: 96px;
+  height: 294px;
+}
+.mask-group-82 {
+  position: absolute;
+  top: 1293px;
+  left: 1063px;
+  width: 109px;
+  height: 310px;
+  object-fit: cover;
+}
+.vn-hc-trung {
+  position: absolute;
+  top: 1302px;
+  left: 1070px;
+  display: inline-block;
+  width: 96px;
+}
+.mask-group-83 {
+  position: absolute;
+  top: 1293px;
+  right: 174px;
+  width: 132px;
+  height: 529px;
+  object-fit: cover;
+}
+.vn-hc-hin-container {
+  position: absolute;
+  top: 1307px;
+  right: 186px;
+  display: inline-block;
+  width: 107px;
+}
+.web-1920-3-item {
+  position: absolute;
+  top: -3px;
+  left: 0;
+  width: 1930.9px;
+  height: 122.5px;
+}
+.web-1920-3-child1,
+.web-1920-3-child2,
+.web-1920-3-inner {
+  position: absolute;
+  top: 48.37px;
+  left: 458px;
+  width: 136.7px;
+  height: 23.7px;
+  cursor: pointer;
+}
+.web-1920-3-child1,
+.web-1920-3-child2 {
+  top: 48.4px;
+  left: 873px;
+  width: 147.2px;
+}
+.web-1920-3-child2 {
+  top: 48px;
+  left: 1302px;
+  width: 100.2px;
+  height: 31.4px;
+}
+.web-1920-3-child3 {
+  position: absolute;
+  top: 48.89px;
+  right: 80.2px;
+  width: 158.8px;
+  height: 23.6px;
+  cursor: pointer;
+}
+.web-1920-3-child4 {
+  position: absolute;
+  top: 57.24px;
+  left: 729px;
+  width: 816.9px;
+  height: 12.5px;
+}
+.web-1920-3-child5 {
+  position: absolute;
+  top: 25px;
+  left: 112px;
+  width: 62.4px;
+  height: 60.3px;
+  cursor: pointer;
+}
+.web-1920-3-child6 {
+  position: absolute;
+  top: 81px;
+  left: 873px;
+  border-radius: var(--br-3);
+  background-color: var(--color-orange-100);
+  width: 147px;
+  height: 5px;
+}
+.web-1920-3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2162px;
+  text-align: center;
+  font-size: var(--font-size-40);
+  color: var(--color-gray);
+  font-family: var(--font-khmer-mn);
+}
